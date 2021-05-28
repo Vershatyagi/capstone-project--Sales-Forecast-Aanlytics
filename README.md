@@ -1,0 +1,2 @@
+# capstone-project--Sales-Forecast-Aanlytics
+In this project, I analyzed and forecast sales of pesticides for a domestic pesticide manufacturing company  and analyze variables that impact the sales of the product. This will enable the pesticide company to manage the production to meet growth/slowdown in sales as per the sales forecast. The objective of this project is to build data model to conduct state wise trend analysis of the given sales for ABC Manufacturing.
